@@ -1,0 +1,1 @@
+This is my first React project, which taught me how to work with react to create a simple tic-tac-toe game that tracks your moves and allows you to jump back to any point in the game. 
